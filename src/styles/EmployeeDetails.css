@@ -1,0 +1,41 @@
+.employee-details {
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .employee-details img {
+    border-radius: 50%;
+    margin-bottom: 20px;
+    width: 150px;
+    height: 150px;
+  }
+  
+  .employee-details h2 {
+    margin-bottom: 10px;
+  }
+  
+  .employee-details p {
+    margin: 5px 0;
+  }
+  
+  .employee-details button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .employee-details button:hover {
+    background-color: #0056b3;
+  }
+  
+  .success-message {
+    margin-top: 10px;
+    color: #28a745;
+    font-weight: bold;
+  }
+  

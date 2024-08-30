@@ -1,0 +1,14 @@
+.favorites {
+    padding: 20px;
+  }
+  
+  .favorites h2 {
+    margin-bottom: 20px;
+  }
+  
+  .employee-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+  }
+  
